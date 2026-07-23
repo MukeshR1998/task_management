@@ -1,0 +1,11 @@
+export enum GENDER {
+  MALE = 'MALE',
+  FEMALE = 'FEMALE',
+  OTHERS = 'OTHERS',
+}
+
+export enum REGISTER_TYPE {
+  GOOGLE = 'GOOGLE',
+  EMAIL = 'EMAIL',
+  MOBILE_NUMBER = 'MOBILE_NUMBER',
+}
